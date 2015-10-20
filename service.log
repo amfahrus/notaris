@@ -1,0 +1,85 @@
+These Windows services are started:
+
+   ##Id_String1.6844F930_1628_4223_B5CC_5BB94B879762##
+   Adobe Acrobat Update Service
+   AMD External Events Utility
+   Application Experience
+   Application Information
+   AtherosSvc
+   AVG WatchDog
+   AVGIDSAgent
+   Background Intelligent Transfer Service
+   Base Filtering Engine
+   BBUpdate
+   BlueStacks Log Rotator Service
+   BlueStacks Updater Service;gadgetDataDir=C:\ProgramData\BlueStacks\UserData\Gadget"
+   Chrome Remote Desktop Service
+   CNG Key Isolation
+   COM+ Event System
+   Computer Browser
+   Connectify
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Desktop Window Manager Session Manager
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Dritek WMI Service
+   Extensible Authentication Protocol
+   Foxit Cloud Safe Update Service
+   Function Discovery Provider Host
+   Gammu SMSD Service (smsgateway)
+   Group Policy Client
+   IKE and AuthIP IPsec Keying Modules
+   Intel(R) Rapid Storage Technology
+   IP Helper
+   IPsec Policy Agent
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Plug and Play
+   Portable Device Enumerator Service
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Protexis Licensing V2
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   SSDP Discovery
+   Superfetch
+   System Event Notification Service
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Telephony
+   Themes
+   User Profile Service
+   vToolbarUpdater18.4.0
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connect Now - Config Registrar
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Image Acquisition (WIA)
+   Windows Management Instrumentation
+   Windows Media Player Network Sharing Service
+   Windows Search
+   Windows Update
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+   WtuSystemSupport
+   WWAN AutoConfig
+
+The command completed successfully.
+
